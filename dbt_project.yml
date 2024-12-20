@@ -40,3 +40,6 @@ models:
     src:
       +materialized: ephemeral
     # Config indicated by + and applies to all files under models/example/
+
+vars:
+  var_name: default_value
