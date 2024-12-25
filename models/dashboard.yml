@@ -4,7 +4,7 @@ exposures:
     label: Executive Dashboard
     type: dashboard
     maturity: low
-    url: https://7328dc35.us2a.app.preset.io/superset/dashboard/8/?edit=true&native_filters_key=YfQp6hVmxLcMCG1KKLO9ebKM0AcwYx1mkK1-zwZWQ5cvqOK_TNiInVHPFaErHCDi
+    url: https://7328dc35.us2a.app.preset.io/superset/dashboard/8/?native_filters_key=R8Hz4t9d2W8ZHea4CTV2qqZ45q2O7QQ8FTZ0jQYXNxaxLxnvMIOJTMO2KQ_GiPUQ
     description: Executive Dashboard about Airbnb listings and hosts
     
     depends_on:
